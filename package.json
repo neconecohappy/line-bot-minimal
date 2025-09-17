@@ -1,0 +1,16 @@
+{
+  "name": "line-bot-minimal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^7.7.0",
+    "express": "^4.19.2"
+  }
+}
